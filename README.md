@@ -20,7 +20,6 @@ This project was created to practice front-end web development concepts such as:
 
 - 🔄 DOM Manipulation
 - 🖱️ Event Handling
-- 🌐 API Integration
 - 🚀 JavaScript Fundamentals
 
 ---
